@@ -9,7 +9,7 @@ Plugin simples de customização de Join.
   </div>
 <hr>
 
-## Projeto [80%]
+## Projeto [83%]
 
 ## Colaboradores do Projeto
 
@@ -22,8 +22,10 @@ Plugin simples de customização de Join.
 
 ## Funcionalidades
 - Sistema de Title Personalizado
+- Gui para poder configurar o sistema de JOIN
 
 
 ## Funcionalidades
 
 # ![WebApp](https://i.imgur.com/NzC0kzN.png)
+# ![WebApp](https://i.imgur.com/5lHNBdH.png)
