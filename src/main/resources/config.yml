@@ -1,0 +1,19 @@
+#Para Puxar nome do Servidor em outro lugar use {ServerName}
+#Para Puxar nome do Jogador que Entrou ou Saiu {Player}
+
+Config:
+  ServerName: "&l&eServerName"
+  Permission: "skjoin-editor"
+
+JoinConfig:
+  Join:
+    Active-Msg: true
+    Join-Mensagem:
+      Mensagem: "&f[&a+&f] &aEntrou {Player}"
+    Active-Title: true
+    Title:
+      One: "&6Welcome {ServerName}"
+      Two: "&6SUB TITLE"
+  Quit:
+    Active-Msg: true
+    Mensagem: "&f[&a+&f] &cSaiu {Player}"

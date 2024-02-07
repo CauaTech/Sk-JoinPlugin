@@ -1,0 +1,7 @@
+name: SK-JoinPlugin
+version: '1.0'
+main: com.br.skjoinplugin.Main
+commands:
+  skjoin:
+    description: Sk-Join plugin para configurar seu sistema de Join
+    aliases: [join]

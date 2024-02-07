@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SK-JoinPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/Server 1.8.9/plugins</output-path>
+    <root id="archive" name="SK-JoinPlugin.jar">
+      <element id="module-output" name="SK-JoinPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
