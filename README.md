@@ -9,7 +9,7 @@ Plugin simples de customização de Join.
   </div>
 <hr>
 
-## Projeto [96%]
+## Projeto [97%]
 
 ## Colaboradores do Projeto
 
