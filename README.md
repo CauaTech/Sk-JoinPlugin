@@ -25,6 +25,7 @@ Plugin simples de customização de Join.
 - Gui para poder configurar o sistema de JOIN.
 - Sistema de Editar Mensagem.
 - Todo o sistema pode ser Editado.
+- Sistema baseado licença.
 
 
 ## Funcionalidades
